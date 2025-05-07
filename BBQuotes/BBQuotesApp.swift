@@ -2,7 +2,7 @@
 //  BBQuotesApp.swift
 //  BBQuotes
 //
-//  Created by Collin Schmitt on 4/16/25.
+//  Created by Collin Schmitt on 1/6/25.
 //
 
 import SwiftUI
